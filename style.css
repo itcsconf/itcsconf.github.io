@@ -4,6 +4,7 @@
 	padding: 0 16px;
 	background-color: #FFFFFF;
 	align-items:center;
+   border-radius:.25rem!important
 }
 
 #itcs-logo
@@ -29,6 +30,7 @@ body {
 .row .col-md-11 {
 	font-size: 110%;
 	background-color: #FFFFFF;
+   border-radius:.25rem!important
  }
 
 p
