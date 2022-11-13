@@ -43,6 +43,10 @@ $(function(){
 <li>Emre Yolcu; Marijn Heule. <strong>Exponential separations using guarded extension variables</strong>.</li>
 <li>Amin Shiraz Gilani; Andrew M. Childs; Matthew Coudron. <strong>Quantum algorithms and the power of forgetting</strong>.</li>
 <li>Oded Goldreich; Guy N. Rothblum; Tal Skverer. <strong>On Interactive Proofs of Proximity with Proof-Oblivious Queries</strong>.</li>
+<li>Jonah Blasiak; Henry Cohn; Joshua A. Grochow; Kevin Prat; Chris Umans. <strong>Matrix multiplication via matrix groups</strong>.</li>
+<li>Julia Chuzhoy; Mina Dalirrooyfard; Vadim Grinberg; Zihan Tan. <strong>A New Conjecture on Hardness of Low-Degree 2-CSP’s with Implications to Hardness of Densest k-Subgraph and Other Problems</strong>.</li>
+<li>Michael P. Kim; Juan C. Perdomo. <strong>Making Decisions under Outcome Performativity</strong>.</li>
+<li>Parikshit Gopalan; Lunjia Hu; Michael P. Kim; Omer Reingold; Udi Wieder. <strong>Loss Minimization through the lens of Outcome Indistinguishability</strong>.</li>
 </ul>
 <p>&nbsp;</p>
 </body>
