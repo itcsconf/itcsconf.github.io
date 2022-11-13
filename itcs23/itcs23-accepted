@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="ITCS 2023 Accepted Papers"/>
+<meta name="title" content="ITCS 2023 Accepted Papers"/>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script> 
+$(function(){
+  $("#header").load("../header.html"); 
+  $("#footer").load("../footer.html"); 
+});
+</script> 
+</head>
+<body class>
+<div id="header"></div>
+<div id="pg-wrapper">
+<div class="container-fluid" id="all-but-header">
+<div class="row">
+<div class="col-md-11">
+	<br>
+<h1>ITCS 2023 Accepted Papers</h1>
+
+<ul>
+<li>Anne Broadbent; Eric Culf. <strong>Rigidity for Monogamy-of-Entanglement Games</strong>.</li>
+<li>Greg Bodwin; Forest Zhang. <strong>Opponent Indifference in Rating Systems: A Theoretical Case for Sonas</strong>.</li>
+<li>Aditya Bhaskara; Sreenivas Gollapudi; Sungjin Im; Kostas Kollias; Kamesh Munagala. <strong>Online Learning and Bandits with Queried Hints</strong>.</li>
+<li>Mark Braverman; Subhash Khot; Guy Kindler; Dor Minzer. <strong>Improved Monotonicity Testing Over the Hypergrid via Hypercube Embedddings</strong>.</li>
+<li>Yaonan Jin; Pinyan Lu; Tao Xiao. <strong>Learning Reserve Prices in Second-Price Auctions</strong>.</li>
+<li>William He; Benjamin Rossman. <strong>Symmetric Formulas for Products of Permutations</strong>.</li>
+<li>Antoine El-Hayek; Monika Henzinger; Stefan Schmid. <strong>Asymptotically Tight Bounds on the Time Complexity of Broadcast and its Variants in Dynamic Networks</strong>.</li>
+<li>Monika Henzinger; Billy Jin; Richard Peng; David Williamson. <strong>A Combinatorial Cut-Toggling Algorithm for Solving Laplacian Linear Systems</strong>.</li>
+<li>Eric Balkanski; Vasilis Gkatzelis; Xizhi Tan. <strong>Strategyproof Scheduling with Predictions</strong>.</li>
+<li>Shuichi Hirahara; Mikito Nanashima. <strong>Learning versus Pseudorandom Generators in Constant Parallel Time</strong>.</li>
+<li>Leonardo Nagami Coregliano; Fernando Granha Jeronimo; Chris Jones. <strong>Exact Completeness of LP Hierarchies for Linear Codes</strong>.</li>
+<li>Tomoyuki Morimae; Takashi Yamakawa. <strong>Proofs of Quantumness from Trapdoor Permutations</strong>.</li>
+<li>Emre Yolcu; Marijn Heule. <strong>Exponential separations using guarded extension variables</strong>.</li>
+<li>Amin Shiraz Gilani; Andrew M. Childs; Matthew Coudron. <strong>Quantum algorithms and the power of forgetting</strong>.</li>
+<li>Oded Goldreich; Guy N. Rothblum; Tal Skverer. <strong>On Interactive Proofs of Proximity with Proof-Oblivious Queries</strong>.</li>
+</ul>
+<p>&nbsp;</p>
+</body>
+</html>
