@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html><head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ITCS 2027 Accepted Papers</title>
+<meta name="description" content="ITCS 2027 Accepted Papers">
+<meta name="title" content="ITCS 2027 Accepted Papers">
+
+<link rel="stylesheet" type="text/css" href="../style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script>
+$(function(){
+  $("#header").load("../header.html");
+  $("#footer").load("../footer.html");
+});
+</script>
+
+<script>
+window.MathJax = {
+  tex: {inlineMath: [['$', '$']]},
+  options: {skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']}
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+</head><body style=""><div id="logo-bar" class="col-md-11">
+	<img id="itcs-logo" src="/images/itcs_logo.png">
+	<h3 id="itcs-title">ITCS - Innovations in Theoretical Computer Science</h3>
+</div>
+
+<div class="col-md-11">
+	<br>
+</div>
+
+<nav class="navbar navbar-inverse col-md-11">
+    <div class="container-fluid ">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html" style="font-size:16px">Home (ITCS 2027)</a>
+		<!-- <a class="navbar-brand" href="/itcs25/itcs25-cfp.html" style="font-size:16px">ITCS 2026 CFP</a> -->
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+		<!--    <li><a href="/itcs24/itcs24-cfp.html">ITCS 2024 CFP</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2024<b class="caret"></b></a>
+                   <ul class="dropdown-menu">
+                     <li><a href="/itcs24/itcs24-cfp.html">Call for papers</a></li>
+	        <li><a href="/itcs23/itcs23-accepted.html">Accepted Papers</a></li>
+	            <<li><a href="/itcs22/schedule-itcs22.html">Program</a></li>
+	            <li><a href="/itcs22/graduating-bits.html">Graduating bits</a></li>
+	            <li><a href="https://simons.berkeley.edu/forms/itcs-2022-registration">Registration</a></li> 
+                    </ul>                    
+                </li>-->
+				 <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Past Conferences<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+			<li class="dropdown-submenu">
+                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2026<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/itcs26/itcs26-cfp.html">Call for papers</a></li>
+                                <li><a href="/itcs26/itcs26-accepted.html">Accepted Papers</a></li>
+				 <li><a href="/itcs26/itcs26-program.html">Program</a></li>
+                            </ul>
+                        </li>
+			<li class="dropdown-submenu">
+                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2025<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/itcs25/itcs25-cfp.html">Call for papers</a></li>
+                                <li><a href="/itcs25/itcs25-accepted.html">Accepted Papers</a></li>
+				 <li><a href="/itcs25/itcs25-program.html">Program</a></li>
+                            </ul>
+                        </li>
+            		<li class="dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2024<b class="caret"></b></a>
+                           <ul class="dropdown-menu">
+                               <li><a href="/itcs24/itcs24-cfp.html">Call for papers</a></li>
+                               <li><a href="/itcs24/itcs24-accepted.html">Accepted Papers</a></li>
+                	<li><a href="/itcs24/itcs24-program.html">Program</a></li>
+                           </ul>
+                       </li>
+			<li class="dropdown-submenu">
+                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2023<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/itcs23/itcs23-cfp.html">Call for papers</a></li>
+                                <li><a href="/itcs23/itcs23-accepted.html">Accepted Papers</a></li>
+				 <li><a href="/itcs23/itcs23-program.html">Program</a></li>
+                            </ul>
+                        </li>
+			<li class="dropdown-submenu">
+                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2022<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/itcs22/itcs22-cfp.html">Call for papers</a></li>
+                                <li><a href="/itcs22/itcs22-accepted.html">Accepted Papers</a></li>
+				 <li><a href="/itcs22/schedule-itcs22.html">Program</a></li>
+                            </ul>
+                        </li>
+                       <li class="dropdown-submenu">
+                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2021<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/itcs21/itcs21-cfp.html">Call for papers</a></li>
+                                <li><a href="/itcs21/itcs21-accepted.html">Accepted Papers</a></li>
+                                  <li><a href="/itcs21/program.html">Program</a></li>
+                                <li><a href="/itcs21/itcs21-conduct.html">Code of conduct</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2020<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/itcs20/itcs20-cfp.html">Call for papers</a></li>
+                                <li><a href="/itcs20/itcs20-accepted.html">Accepted Papers</a></li>
+                                <li><a href="/itcs20/itcs20-conduct.html">Code of conduct</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2019<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/itcs19/itcs19-cfp.html">Call for papers</a></li>
+                                <li><a href="/itcs19/itcs19-accepted.html">Accepted Papers</a></li>
+                                <li><a href="http://cseweb.ucsd.edu/%7Eslovett/conferences/itcs2019">Local information</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2018<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/itcs18/itcs18-cfp.html">Call For Papers</a></li>
+                                <li><a href="/itcs18/itcs18-accepted.html">Accepted Papers</a></li>
+                                <li><a href="https://projects.csail.mit.edu/itcs/">Local information</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">ITCS 2017<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/itcs17/itcs17-info.html">Information</a></li>
+                                <li><a href="/itcs17/itcs17-cfp.html">Call For Papers</a></li>
+                                <li><a href="/itcs17/itcs17-accepted.html">Accepted Papers</a></li>
+                                <li><a href="/itcs17/itcs17-program.html">Program</a></li>
+                                <li><a href="/itcs17/itcs17-graduating-bits.html">Graduating Bits</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/itcs10to16/itcs10to16.html">ITCS 2010-2017</a></li>
+                    </ul>
+                </li>
+                <li><a href="/governance.html">Governance</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<script type="text/javascript">
+  (function($){
+  $(document).ready(function(){
+    $('ul.dropdown-menu [data-toggle=dropdown]').on('click', function(event) {
+      event.preventDefault(); 
+      event.stopPropagation(); 
+      $(this).parent().siblings().removeClass('open');
+      $(this).parent().toggleClass('open');
+    });
+  });
+  })(jQuery);
+</script>
+
+<div id="pg-wrapper">
+<div class="container-fluid" id="all-but-header">
+<div class="row">
+<div class="col-md-11">
+<br>
+<h1>ITCS 2027 Accepted Papers</h1><hr>
+
+<ul>
+      <li>A Better Lower Bound for Sublinear Metric Steiner Tree<br>Sepideh Mahabadi (Microsoft Research, Redmond); Jakub Tarnawski (Microsoft); Ali Vakilian (Rutgers Business School)</li>
+      <br>
+
+      <li>A Complexity Phase Transition at the EPR Hamiltonian<br>Kunal Marwaha, James Sud (University of Chicago)</li>
+      <br>
+
+      <li>A Fast Gaussian Mechanism under Continual Observation, with Applications<br>Sia Susanne Lykke Sejer, Rasmus Pagh (University of Copenhagen)</li>
+      <br>
+
+      <li>A Matrix Factorization Approach in Turnstile Streaming<br>Jan Bulanek, Ravi Kumar (Google); Raghu Meka (University of California Los Angeles); Jelani Nelson (UC Berkeley &amp; Anthropic); Tamás Sarlós (Google Research)</li>
+      <br>
+
+      <li>A Nearly Optimal Min-Cut Algorithm for Dynamic Streams<br>Yang P. Liu, Hoai-An Nguyen (Carnegie Mellon University); Vihan Shah (University of Birmingham); David P. Woodruff (Carnegie Mellon University)</li>
+      <br>
+
+      <li>A New Quantum Linear System Algorithm Beyond the Condition Number and Its Application to Solving Multivariate Polynomial Systems<br>Jianqiang Li (UT Dallas)</li>
+      <br>
+
+      <li>A Note on Natural-Proofs for Super-Linear Lower Bounds for Linear Functions<br>Ran Raz (Princeton University)</li>
+      <br>
+
+      <li>A quantitative container characterization of one-sided testability<br>Gaia Carenini (University of Cambridge); Cameron Seth (University of Waterloo); Yuichi Yoshida (National Institute of Informatics)</li>
+      <br>
+
+      <li>A quantum oracle separation between QMA(2) and QMA<br>John Bostanci (Simons Institute and UC Berkeley); Sabee Grewal (IBM Research and Columbia University); Jonas Haferkamp (Ruhr-University Bochum); Andrew Huang (UC Berkeley); Yeongwoo Hwang (Harvard University); Anand Natarajan (MIT); Chinmay Nirkhe (University of Washington)</li>
+      <br>
+
+      <li>A Relativizing MIP for BQP<br>Scott Aaronson (The University of Texas at Austin); Anand Natarajan (MIT); Avishay Tal (UC Berkeley); Agi Villanyi (MIT)</li>
+      <br>
+
+      <li>A Separation Between Types of Quantum Oracle Separations<br>Scott Aaronson (The University of Texas at Austin); Adam Bouland (Stanford University); Jordan Docter (Stanford); Barak Nehoran (Columbia University)</li>
+      <br>
+
+      <li>A Simple Algorithm for Best Separable State<br>Prashanti Anderson, Sam Hopkins, Amit Rajaraman (MIT)</li>
+      <br>
+
+      <li>Adversarially Robust PAC Learning with Optimal VC Rates<br>Steve Hanneke, Amirreza Shaeiri (Purdue University)</li>
+      <br>
+
+      <li>Algebraic Complexity Approach to Sign-Rank<br>Mika Göös (EPFL); Kaave Hosseini (University of Rochester); Valentin Imbach, Anastasia Sofronova (EPFL)</li>
+      <br>
+
+      <li>Algebraic Natural Proofs and Hardness of Tensor Problems<br>Robert Andrews (Simon Fraser University); Youming Qiao (University of Technology Sydney); Anamay Tengse (National Institute of Science Education Research)</li>
+      <br>
+
+      <li>Aligning prover incentives by hiding the problem statement<br>Nathan S. Sheffield, Ryan Williams, Zoe Xi (MIT)</li>
+      <br>
+
+      <li>An Optimal Separation Between Certificate Complexity and Approximate Degree<br>Kaspars Balodis (University of Latvia)</li>
+      <br>
+
+      <li>Approximate Nearest Neighbor in Ultra-High Dimensional $\ell_\infty$<br>Nathan White, Tian Zhang (University of Pennsylvania)</li>
+      <br>
+
+      <li>Asynchronous Collective Tree Exploration: Communication Meets Randomness<br>Romain Cosson (NYU); Laurent Massoulie (INRIA, France)</li>
+      <br>
+
+      <li>Auctions with Price Predictions<br>Siddharth Prasad, Dravyansh Sharma (Toyota Technological Institute at Chicago); Alec Sun, Muthu Sundar (University of Chicago)</li>
+      <br>
+
+      <li>Beyond IDV: Mechanism Design for Matchdependent Valuations<br>Gagan Aggarwal (Google Research); Aviad Rubinstein (Stanford University and Google Research)</li>
+      <br>
+
+      <li>Beyond NISQ Assumptions: One-time Memory in the Classically Accessible Random-Oracle Model<br>Boyang Chen (Tsinghua University); Tianren Liu, Luojian Wei (Peking University)</li>
+      <br>
+
+      <li>Beyond Worst-Case Online Algorithms via Input Subsampling<br>Siddhartha Banerjee (Cornell); Tianle Jiang, Kamesh Munagala (Duke University)</li>
+      <br>
+
+      <li>Bin Packing and Covering: Near-Exact Ordinal Maximin-Share Guarantees<br>Ankang Sun (School of Computer Science and Technology, Shandong University,); Shiji Xing (The Hong Kong Polytechnic University)</li>
+      <br>
+
+      <li>Characterizing Complexity Classes by Adaptive Reducibility to the Random Strings<br>Michael Saks (Rutgers University); Rahul Santhanam (University of Oxford)</li>
+      <br>
+
+      <li>Clustering under Constraints: Efficient Parameterized Approximation Schemes<br>Sujoy Bhore (Indian Institute of Technology Bombay); Ameet Gadekar (CISPA Helmholtz Center for Information Security); Tanmay Inamdar (Indian Institute of Technology Jodhpur)</li>
+      <br>
+
+      <li>Collective Tree Exploration with Predictions<br>Romain Cosson (New York University); Yichen Huang, Michael Mitzenmacher (Harvard University); Ali Vakilian (Rutgers Business School)</li>
+      <br>
+
+      <li>Communication-Efficient (1+ε)Δ-Edge Coloring and Lovász Local Lemma<br>Yi-Jun Chang (National University of Singapore); Nima Dolatabadi (University of Copenhagen); Hung Thuan Nguyen (National University of Singapore)</li>
+      <br>
+
+      <li>Complexity of Unambiguous Problems in $\Sigma_2^P$<br>Matan Gilboa, Paul W. Goldberg, Elias Koutsoupias (University of Oxford); Noam Nisan (Hebrew University)</li>
+      <br>
+
+      <li>Complexity Theory for Quantum Promise Problems<br>Nai-Hui Chia (Rice University); Kai-Min Chung (Academia Sinica); Tzu-Hsiang Huang (University of Illinois Urbana-Champaign); Chuhan Lu (Rice University); Jhih-Wei Shih (IIS, Academia Sinica)</li>
+      <br>
+
+      <li>Complexity-Theoretic Consequences of Zero-Knowledge with Inefficient Simulation<br>Gal Arnon (Bocconi University); Noam Mazor (New York University); Rafael Pass (Cornell University, Technion); Jad Silbak (MIT)</li>
+      <br>
+
+      <li>Computationally Indistinguishable Learning<br>Taiga Hiroka (Hon-Hai Research); Matthew Gray (San Francisco State University); Min-Hsiu Hsieh (Hon-Hai Research)</li>
+      <br>
+
+      <li>Computing Minimum Cut in $\mathcal{O}(\log^{3/2} n)$ Space<br>Sepehr Assadi (University of Waterloo); Edward Pyne (MIT); Christopher Trevisan (University of Waterloo)</li>
+      <br>
+
+      <li>Conversable Quantum Fire in the Standard Model<br>Ofer Casper (Ben-Gurion University); Barak Nehoran (Columbia University); Or Sattath (Ben-Gurion University)</li>
+      <br>
+
+      <li>Cores Characterize the One-Pass Streaming Complexity of CSPs<br>Joshua Brakensiek (University of California, Berkeley); Aaron Putterman (Harvard University); Amatya Sharma (University of Michigan - Ann Arbor); Santhoshini Velusamy (University of Waterloo)</li>
+      <br>
+
+      <li>Counting and Concentration on Pseudorandom Hypergraphs<br>Arpon Basu (Princeton University); Max Hopkins (Institute for Advanced Study)</li>
+      <br>
+
+      <li>Degree Balance as a Fine-Grained Complexity Boundary for Quantum SAT<br>Atsuya Hasegawa (Nagoya University); Jonas Kamminga (Paderborn University); François Le Gall (Nagoya University); Suguru Tamaki (University of Hyogo)</li>
+      <br>
+
+      <li>Degree Realization with Prescribed Arboricity: General and Bipartite Cases with Applications to Thickness<br>Meng-Tsung Tsai (Academia Sinica); Tzu-Chiao Yen (National Taiwan University)</li>
+      <br>
+
+      <li>Deterministic Approximation of the Total Variation Distance Between Spin Systems<br>Zelin Li (University of Science and Technology of China); Minji Yang (The University of Hong Kong)</li>
+      <br>
+
+      <li>Deterministic Depth-4 PIT and Normalization<br>Zeyu Guo (The Ohio State University); Siki Wang (Caltech)</li>
+      <br>
+
+      <li>Differential Privacy Meets Fixed Parameter Tractability: Algorithms and Lower Bounds<br>Pritish Kamath, Ravi Kumar, Pasin Manurangsi (Google Research)</li>
+      <br>
+
+      <li>Dynamically optimal weight-balanced binary search trees<br>John Iacono, Akash Pareek (Université libre de Bruxelles (ULB))</li>
+      <br>
+
+      <li>Enforcing Demographic Coherence: A Harms Aware Framework for Reasoning about Private Data Release<br>Mark Bun (Boston University); Marco Carmosino (IBM Research); Palak Jain (Boston University); Gabriel Kaptchuk (University of Maryland); Satchit Sivakumar (Boston University)</li>
+      <br>
+
+      <li>Equivalence of non-local computation tasks beyond Clifford operations<br>Philip Verduyn Lunel (Sorbonne Universite, CNRS, LIP6); Alex May (Perimeter Institute for Theoretical Physics); Florian Speelman (QuSoft, University of Amsterdam); Andreas Bluhm, Simon Hoefer (Univ. Grenoble Alpes, CNRS)</li>
+      <br>
+
+      <li>Exact Algorithms with Fallible Predictions<br>Ishan Chakraborty, Pritesh Kumar (Institute of Mathematical Sciences, HBNI, Chennai); Madhumita Kundu (University of Bergen, Norway); Srinivasa Rao Satti (Norwegian University of Science and Technology); Saket Saurabh (Institute of Mathematical Sciences, HBNI, Chennai)</li>
+      <br>
+
+      <li>Exponential Lower Bounds for the Pfaffian Number of Graphs<br>Priyanshu Pant, Ranveer Singh (Indian Institute of Technology Indore)</li>
+      <br>
+
+      <li>Fast Geometric Spanners via Approximate Nearest Neighbor Search<br>Krish Singal, Tian Zhang (University of Pennsylvania); Alex Andoni, Manuel Paez (Columbia University)</li>
+      <br>
+
+      <li>Feasible Proofs of the Lovász Local Lemma<br>Om Swostik Mishra (University of Oxford); Dimitrios Tsintsilidas (University of Warwick)</li>
+      <br>
+
+      <li>Fine-Grained P-Completeness<br>Danil Sibgatullin (No Affiliation); Ryan Williams (MIT)</li>
+      <br>
+
+      <li>Fully Anonymous Perfect Secret-Sharing<br>Roni Con (Tel Aviv University); Ray Li (Santa Clara University); Noam Mazor (New York University)</li>
+      <br>
+
+      <li>Generalized Range Avoidance, Collision Avoidance, and Reductions<br>Jiatu Li (Massachusetts Institute of Technology); Tianqi Yang (Columbia University)</li>
+      <br>
+
+      <li>Geometric Complexity Theory and Graph Isomorphism<br>Joshua Grochow (Departments of Computer Science and Mathematics, University of Colorado Boulder, Boulder, CO 80309-0430, United States); Jacob Urisman (University of Colorado Boulder)</li>
+      <br>
+
+      <li>Global-Error Amortization Equals Zero-Error Expected Query Complexity<br>Daiki Suruga (IQC, University of Waterloo)</li>
+      <br>
+
+      <li>Graph Augmentation for Minimizing Effective Resistances using Column Subset Selection<br>Prasanth Yalamanchili, Aditya Bhaskara (University of Utah)</li>
+      <br>
+
+      <li>Graph-Based Nearest-Neighbor Search without the Spread<br>Jeff Giliberti (University of Maryland); Sariel Har-Peled (University of Illinois Urbana-Champaign); Jonas Sauer (Karlsruhe Institute of Technology); Ali Vakilian (Rutgers Business School)</li>
+      <br>
+
+      <li>Hardness of Coloring $2$-Colorable $3$-Uniform Hypergraphs with $\log^{\Omega(1)} n$ Colors<br>Amey Bhangale, Krishna Priya K M (University of California Riverside); Simon Rubin-Toles (University of California San Diego)</li>
+      <br>
+
+      <li>Hardness of Online Directed Steiner Network<br>Gary Hoppenworth, Yaowei Long (University of Michigan); Sepideh Mahabadi, Jakub Tarnawski (Microsoft Research)</li>
+      <br>
+
+      <li>Hardness of Regular Expression Matching with Extensions<br>Taisei Nogami (Waseda University); Yoshiki Nakamura (Chiba University); Tachio Terauchi (Waseda University)</li>
+      <br>
+
+      <li>High-Dimensional Ultra-Log-Concave Distributions<br>Zongchen Chen (Georgia Institute of Technology); Sihan Wang (Shanghai Jiao Tong University)</li>
+      <br>
+
+      <li>Hit-and-Run Mixes as Fast as the Ball Walk<br>Ruizhe Zhang (Purdue University)</li>
+      <br>
+
+      <li>Hitting point for sparse noncommutative polynomials<br>Foram Lakhani (CSE, Indian Institute of Technology); Partha Mukhopadhyay (Chennai Mathematical Institute)</li>
+      <br>
+
+      <li>Homomorphic NIZKs and Maliciously-Secure MPC with Optimal Communication Complexity from Standard Assumptions<br>Abtin Afshar, Jiaqi Cheng, Rishab Goyal (University of Wisconsin-Madison); Aayush Yadav (Rutgers University); Saikumar Yadugiri (University of Wisconsin-Madison)</li>
+      <br>
+
+      <li>How to sketch a learning algorithm<br>Sam Gunn (Massachusetts Institute of Technology)</li>
+      <br>
+
+      <li>How to Verify Probabilistic Consistency of Predictive Models<br>Yoshua Bengio (Mila); Shafi Goldwasser (MIT); Orr Paradise (EPFL); Oliver Richardson (Mila)</li>
+      <br>
+
+      <li>Improved Circuit Lower Bounds and Quantum-Classical Separations<br>Vinayak Kumar (Simons Institute, UC Berkeley); Sabee Grewal (IBM Research, Columbia University)</li>
+      <br>
+
+      <li>Improved lower bounds for decomposable randomized encoding<br>Justin Holmgren (unaffiliated); Kewen Wu (Caltech)</li>
+      <br>
+
+      <li>Improved Small Set Expansion in High Dimensional Expanders<br>David Mass (The Academic College of Tel Aviv-Yaffo); Tali Kaufman (Bar Ilan University)</li>
+      <br>
+
+      <li>Improved Sparsification for Load Balancing<br>Gary Hoppenworth (TTIC); Sepideh Mahabadi (Microsoft Research, Redmond); Jakub Tarnawski (Microsoft)</li>
+      <br>
+
+      <li>Improved Subexponential Upper Bounds for $3$-Restricted Matching Vector Families<br>Sidhant Saraogi (Georgetown University)</li>
+      <br>
+
+      <li>Instantiating Microcrypt: Obstacles and opportunities via tailored state certification<br>Ryan Sweke (AIMS South Africa, Stellenbosch University); Jose Carrasco (FU Berlin); Soumik Ghosh (UC Berkeley, MIT); Dominik Hangleiter (ETH Zurich, Simons Institute, UC Berkeley); Nicky Kai Hong Li (TU Vienna); Jens Eisert (FU Berlin)</li>
+      <br>
+
+      <li>Interactive Proofs with Noisy Data<br>Noga Amit, Shafi Goldwasser (MIT); Guy Rothblum (Apple)</li>
+      <br>
+
+      <li>Interlinear Probing: Linear Probing with Non-Greedy Insertions<br>Andrew Krapivin, William Kuszmaul, Yixuan Wang (CMU)</li>
+      <br>
+
+      <li>Introvert Clustering for Distributed Graph Algorithms<br>Yi-Jun Chang (National University of Singapore); Nima Dolatabadi (University of Copenhagen)</li>
+      <br>
+
+      <li>Learning Depth-3 Circuits with Polynomial Savings<br>Xi Chen (Columbia University); Animesh Fatehpuria (Anthropic); Shyamal Patel, Rocco A. Servedio (Columbia University)</li>
+      <br>
+
+      <li>Limitations of Noisy Geometrically Local Quantum Circuits<br>Joel Rajakumar, Jon Nelson, Michael Gullans (University of Maryland)</li>
+      <br>
+
+      <li>Linear Hashing is Not That Awesome<br>Or Zamir (Tel Aviv University)</li>
+      <br>
+
+      <li>Low-Error Two-Source Extractors via Vinogradov Estimates<br>Eshan Chattopadhyay, Mohit Gurumukhani (Cornell University)</li>
+      <br>
+
+      <li>Lower Bounds for Approximate Sign Rank<br>Riju Bindua, Hamed Hatami, Hasti Karimi, Robert Robere (McGill University)</li>
+      <br>
+
+      <li>Lower Bounds for Structured OMv, APSP, and Triangle Detection<br>Nathan Wallheimer (Weizmann Institute of Science); Amir Abboud (Weizmann Institute); Ron Safier (Weizmann Institute of Science); Shyan Akmal (MPI)</li>
+      <br>
+
+      <li>Machine Unlearning as Private Retroactive Algorithms<br>Haim Kaplan (Tel Aviv University); Refael Kohen (Tel-Aviv University); Yishay Mansour (Tel Aviv University and Google Research); Kobbi Nissim (Georgetown University); Uri Stemmer (Tel Aviv University)</li>
+      <br>
+
+      <li>Matching Size Estimation with Non-Adaptive Pair Queries<br>Sanjeev Khanna (New York University); Sagnik Mukhopadhyay, Vihan Shah (University of Birmingham)</li>
+      <br>
+
+      <li>Navigable Graphs for Low-Dimensional Hyperbolic Spaces<br>Chengyuan Deng, Jie Gao, Kuijun Liu, Kevin Lu, Feng Luo, Puheng Weng (Rutgers University); Cheng Xin (Department of Computer Science, Rutgers University)</li>
+      <br>
+
+      <li>Near-Quadratic Time Multivariate Polynomial Interpolation<br>Chandra Kanta Mohapatra (Aalto University)</li>
+      <br>
+
+      <li>New Results in Link Arrival Streaming Connectivity Augmentation<br>Sepideh Mahabadi (Microsoft Research); Vihan Shah (University of Birmingham); Ali Vakilian (Rutgers Business School)</li>
+      <br>
+
+      <li>No Price Tags? No Problem: Query Strategies for Unpriced Information<br>Shivam Nadimpalli (MIT); Mingda Qiao (University of Massachusetts Amherst); Ronitt Rubinfeld (MIT)</li>
+      <br>
+
+      <li>Non-Clairvoyant Scheduling with Lossy Preemption<br>Sven Jäger, Max Klimm (TU Berlin); Maximilian Schicker (Zuse Institute Berlin); Philipp Warode (Humboldt-Universität zu Berlin)</li>
+      <br>
+
+      <li>Non-Integral $\ell_p$-Shortest Path<br>Charlie Carlson (University at Buffalo); Yury Makarychev (Toyota Technological Institute at Chicago); Ron Mosenzon (TTIC)</li>
+      <br>
+
+      <li>Non-Local Search-to-Decision over F2, and More<br>Prabhanjan Ananth (UCSB)</li>
+      <br>
+
+      <li>Nonlocal Sampling Games and Classical Verification of Quantum Sampling<br>Alexander Kulpe (Ruhr University Bochum, LMU Munich); Giulio Malavolta (Bocconi University); Simon Schmidt (Ruhr University Bochum); Michael Walter (LMU Munich)</li>
+      <br>
+
+      <li>On Space Versus Catalytic Space<br>Ryan Williams, Sam Zhang (MIT)</li>
+      <br>
+
+      <li>On the Complexity of Low-Depth Total Search Problems<br>Zihao Liao, Katerina Sotiraki, Manolis Zampetakis (Yale University)</li>
+      <br>
+
+      <li>On the Gap of Finite Posets<br>Alireza Haqi (Stanford University)</li>
+      <br>
+
+      <li>On the Space Complexity of Online Convolution<br>Joel Daniel Andersson (Institute of Science and Technology Austria); Amir Yehudayoff (University of Copenhagen and Technion-IIT)</li>
+      <br>
+
+      <li>On Top-Down and Local Lower Bounds for AC^0 Circuits<br>Gülce Kardeş (University of Colorado Boulder); Benjamin Rossman (Duke University)</li>
+      <br>
+
+      <li>On Worst-Case Optimal Polynomial Intersection<br>Yihang Sun, Mary Wootters (Stanford)</li>
+      <br>
+
+      <li>Optimal Erasure Codes and Codes on Graphs<br>Yeyuan Chen (University of Michigan); Mahdi Cheraghchi, Nikhil Shagrithaya (University of Michigan, Ann Arbor)</li>
+      <br>
+
+      <li>Optimal mixing of the systematic scan dynamics via approximate tensorization of entropy<br>Antonio Blanca, Md Tahmidur Rafid (The Pennsylvania State University)</li>
+      <br>
+
+      <li>Optimal Signaling Mechanisms for One-round Matching Markets<br>Varsha Dani (Rochester Institute of Technology); David Harris (University of Maryland); Thomas P. Hayes (University at Buffalo); Seth Pettie (University of Michigan, Ann Arbor, USA)</li>
+      <br>
+
+      <li>Optimally Pacing Budget Spending and Learning<br>Mark Braverman, Jingyi Liu (Princeton University); Jieming Mao, Jon Schneider (Google Research); Eric Xue (Princeton University)</li>
+      <br>
+
+      <li>Optimizing Probabilistic Propagation in Graphs by Adding Edges<br>Aditya Bhaskara, Alex Crane, Shweta Jain, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, Prasanth Yalamanchili (University of Utah)</li>
+      <br>
+
+      <li>Parallel Kolmogorov Complexity with Connections to Learning Theory and Cryptography<br>Mandar Juvekar (Boston University); Marco Carmosino (IBM Research)</li>
+      <br>
+
+      <li>Planar Graph Homomorphisms: A Dichotomy and a Barrier from Quantum Groups<br>Jin-Yi Cai, Ashwin Maran, Ben Young (University of Wisconsin-Madison)</li>
+      <br>
+
+      <li>Polynomial bounds on degeneration order from commutativity properties of tensor slices<br>Pascal Koiran (Ecole Normale Supérieure de Lyon); Rafael Oliveira (University of Waterloo); Shree Ganesh (Ecole Normale Supérieure de Lyon)</li>
+      <br>
+
+      <li>Polynomial Lower Bounds for Distributed Graph Sketching with Tiny Error: Connectivity and Spanning Tree Construction<br>Peter Robinson, Ming Ming Tan (Augusta University)</li>
+      <br>
+
+      <li>Pricing Pandora’s Boxes: Revenue Maximization in Sequential Information Acquisition<br>Shuchi Chawla, Dimitrios Christou (UT Austin); Trung Dang (The University of Texas at Austin); Zhiyi Huang (University of Texas at Austin)</li>
+      <br>
+
+      <li>Private and Fast Distributed MIS<br>Fabien Dufoulon (Univ. Bordeaux, CNRS, Bordeaux INP, LaBRI, UMR 5800); Juan A. Garay (Texas A&amp;M University); Connor Neibert, Gopal Pandurangan (University of Houston); Peter Robinson (Augusta University); Michele Scquizzato (University of Padova); Tzu Shen Wang (Texas A&amp;M University)</li>
+      <br>
+
+      <li>Private Graph Property Testing<br>Hendrik Fichtenberger (Google Zurich); Abigail Gentle (The University of Sydney); Tamalika Mukherjee (Max Planck Institute for Security and Privacy); Sayantan Sen (Centre for Quantum Technologies, National University of Singapore)</li>
+      <br>
+
+      <li>Promises should be taken seriously: On relativization with promise problems<br>David Miloschewsky, Supartha Podder (Stony Brook University); Dorian Rudolph (Paderborn University)</li>
+      <br>
+
+      <li>Proof of Useful Matrix Multiplication from Quantized Low-Rank Noise<br>Yuval Dagan (Tel Aviv University and P.R.L); Or Ordentlich, Ilan Komargodski (Hebrew University and P.R.L); Rafael Pass (Cornell Tech, Technion and P.R.L); Erez Badash, Omri Weinstein, Ohad Klein (Pearl Research Labs); Mark Braverman (Princeton University and P.R.L)</li>
+      <br>
+
+      <li>Prophet Inequalities and Online Contention Resolution for Matchoids<br>Calum MacRury (Georgia Institute of Technology); Pranav Nuti (University of Chicago); Jan Vondrak (Stanford University)</li>
+      <br>
+
+      <li>Provable Reductions in TFNP<br>Noah Fleming (Lund &amp; Columbia); Stefan Grosser (McGill University); Toniann Pitassi (Columbia University); Robert Robere (McGill University)</li>
+      <br>
+
+      <li>Pseudorandom Bits for Low Degree Modular Polynomials<br>Chin Ho Lee (North Carolina State University); Shachar Lovett (University of California, San Diego, USA); Tejas Nareddy, Emanuele Viola (Northeastern University)</li>
+      <br>
+
+      <li>Publicly-Verifiable Certificates for Statistical Algorithms<br>Michael Ngo (MIT); Michael Kim (Cornell University)</li>
+      <br>
+
+      <li>Quantum advantage from random geometrically-two-local Hamiltonian dynamics<br>Yihui Quek (EPFL and NUS)</li>
+      <br>
+
+      <li>Quantum Pessiland<br>Tomoyuki Morimae (University of Kyoto); Boyang Chen (Tsinghua University); Takashi Yamakawa (NTT Social Informatics Laboratories)</li>
+      <br>
+
+      <li>Quantum Query Advantage Requires Space<br>Minbo Gao (Institute of Software, Chinese Academy of Sciences); Zhengfeng Ji, Ziyi Xie (Tsinghua University)</li>
+      <br>
+
+      <li>Quantum Query Lower Bounds for Triangle-Listing and Spanners<br>Yu Chen (National University of Singapore); Ananta Mukherjee (Centre for Quantum Technologies, National University of Singapore); Mingyang Yang (National University of Singapore)</li>
+      <br>
+
+      <li>Random Quantum LDPC Codes Approaching the Gilbert–Varshamov Bound<br>Tushant Mittal (Stanford University); Shashank Srivastava (Indian Institute of Technology Bombay); Madhur Tulsiani (Toyota Technological Institute at Chicago); Mary Wootters (Stanford)</li>
+      <br>
+
+      <li>Replication Factories under Deterministic External Global Control<br>Alberto Avila-Jimenez, Austin Luchsinger, Robert Schweller, Evan Tomai, Tim Wylie (University of Texas Rio Grande Valley)</li>
+      <br>
+
+      <li>Res(log) Proves Bounded-Depth Frege Lower Bounds<br>Ben Davis, Robert Robere (McGill University)</li>
+      <br>
+
+      <li>Retrieve-Compute PIR and Its Applications<br>Benny Applebaum, Shahar Shechter (Tel Aviv University)</li>
+      <br>
+
+      <li>Rural Readiness: Domain Generalization with Adversarially Chosen Domains<br>Cynthia Dwork (Harvard University); Elahe Ghasemi, Lunjia Hu (Northeastern University)</li>
+      <br>
+
+      <li>Sample Complexity of Multicalibration for Multilevel Properties<br>Jiuyao Lu (University of Pennsylvania); Krishnakumar Balasubramanian (University of California, Davis; Amazon); Aleksandr Podkopaev, Shiva Prasad Kasiviswanathan (Amazon)</li>
+      <br>
+
+      <li>Saving Private Randomness in Differential Privacy<br>Surendra Ghentiyala (Cornell University); Pritish Kamath (Google Research); Ravi Kumar (Google); Pasin Manurangsi (Google Research)</li>
+      <br>
+
+      <li>Search vs. Decision Characterizes Private- vs. Public-key Encryption<br>Halley Goldberg (University of Warwick); Shuichi Hirahara (National Institute of Informatics, Japan)</li>
+      <br>
+
+      <li>Settling the Support Complexity of Correlated Equilibria<br>Ashkan Soleymani, Patrick Jaillet, Gabriele Farina (MIT); Akbar Rafiey (New York University, RBC Borealis)</li>
+      <br>
+
+      <li>Single-Sample Prophet Inequalities for Knapsack Problems<br>Pranav Nuti (University of Chicago); Rebecca Reiffenhäuser, Alice Sayutina (University of Amsterdam)</li>
+      <br>
+
+      <li>Smooth Random Self-Reductions<br>Yunqi Li (National University of Singapore); Rahul Santhanam (University of Oxford); Prashant Nalini Vasudevan (National University of Singapore)</li>
+      <br>
+
+      <li>Sparsifying Semidefinite Programs and Applications to Fast List Decoding<br>Prashanti Anderson (MIT); Sidhanth Mohanty (Northwestern University); Madhur Tulsiani (Toyota Technological Institute at Chicago)</li>
+      <br>
+
+      <li>Stable Multi-Principal Contracts<br>Tamar Lachover, Hadas Shachnai (Technion); Inbal Talgam-Cohen (Tel Aviv University)</li>
+      <br>
+
+      <li>Statistical Learning with an Architectural Prior is Enough: On the Computational Basis of Natural Language<br>Daniel Mitropolsky (MIT, Tufts); Christos Papadimitriou (Columbia)</li>
+      <br>
+
+      <li>Stochastic Matchings and Maximality<br>Amir Azarmehr (Northeastern University); Avrim Blum (Toyota Technological Institute at Chicago); Ali Vakilian (Rutgers Business School)</li>
+      <br>
+
+      <li>Streaming Hypergraph Coloring via Palette Sparsification<br>Artur Czumaj (University of Warwick); Pan Peng (USTC); Ruizhe Shi (University of Washington); Christian Sohler (University of Cologne)</li>
+      <br>
+
+      <li>Strongly Refuting Semirandom Linear Systems in Subexponential Time<br>Pravesh K. Kothari, Andrew Lin (Princeton University); Peter Manohar (Institute for Advanced Study)</li>
+      <br>
+
+      <li>Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes<br>Rohan Goyal (MIT); Venkatesan Guruswami (UC Berkeley)</li>
+      <br>
+
+      <li>Subgraph Freeness Testing with Online Erasures via Fast Maker-Breaker Games<br>Steve Choi (University of Waterloo); Ephraim Linder, Sofya Raskhodnikova, Anatoly Zavyalov (Boston University)</li>
+      <br>
+
+      <li>Submodular Maximization over Bipartite Perfect Matchings and Matroid Intersection Bases<br>Neta Singer (EPFL); Chandra Chekuri (University of Illinois, Urbana-Champaign, USA); Lars Rohwedder (University of Southern Denmark); Jan Vondrák (Stanford University); Rico Zenklusen (ETH Zurich)</li>
+      <br>
+
+      <li>Sumset Structure in Local Computation<br>Alexander Golovnev, Mohit Gurumukhani (Cornell University)</li>
+      <br>
+
+      <li>Testable Testing: Distribution-Robust Property Testing<br>Xi Chen, Renato Ferreira Pinto Jr. (Columbia University); Nathan Harms (University of British Columbia); Rocco A. Servedio (Columbia University)</li>
+      <br>
+
+      <li>Testing Induced-Subgraph Freeness in Outerplanar Graphs under the Random-Neighbor Oracle<br>Pan Peng, Kefan Yu (School of Computer Science and Technology, University of Science and Technology of China)</li>
+      <br>
+
+      <li>Testing Permutation Pattern Properties on Arrays with Few Distinct Values<br>Harish Chandramouleeswaran (Chennai Mathematical Institute, India); Gopinath Mishra (The Institute of Mathematical Sciences, India); Nithin Varma (University of Cologne, Germany)</li>
+      <br>
+
+      <li>The BRRY Analysis of the INW Pseudorandom Generator is Optimal<br>William Hoza, Yakov Shalunov (University of Chicago)</li>
+      <br>
+
+      <li>The Collapse of Unentangled Stoquastic Merlin-Arthur Proof Systems<br>William Gay, Fernando Jeronimo (University of Illinois Urbana-Champaign)</li>
+      <br>
+
+      <li>The complexity of classical shadows and minimal quantum cryptography<br>Boyang Chen (Tsinghua University); Bruno Cavalar (University of Oxford); Matthew Gray (San Fransisco State University); Zhengfeng Ji (Tsinghua University)</li>
+      <br>
+
+      <li>The Cube-Root Phenomenon in Online Carpooling<br>Nikhil Bansal, Milind Prabhu (University of Michigan); Sahil Singla, Siddharth Sundaram (Georgia Institute of Technology)</li>
+      <br>
+
+      <li>The Exceptional Hardness of String Distance Oracles<br>Amir Abboud (Weizmann Institute of Science); Nick Fischer (Max Planck Institute for Informatics)</li>
+      <br>
+
+      <li>The Insertion List-Decoding Capacity and an Improved Bound on the Deletion List-Decoding Capacity<br>Roni Con (Tel Aviv Univesity); Dean Doron (Ben Gurion University); João Ribeiro (Instituto de Telecomunicações and Instituto Superior Técnico, Universidade de Lisboa)</li>
+      <br>
+
+      <li>The Komlos conjecture for complex discrepancy<br>Nestor Guillen (Courant Institute, New York University); Vladimir A.Kobzar (The Ohio State University)</li>
+      <br>
+
+      <li>The Non-Cancelling Complexity of Iterated Matrix Multiplication<br>Benjamin Rossman (Duke University)</li>
+      <br>
+
+      <li>The Power of Flexible Budgets in Adwords<br>Suho Kang, Rajan Udwani (UC Berkeley)</li>
+      <br>
+
+      <li>The Price of Privacy For Approximating Max-CSP<br>Prathamesh Dharangutte (Rutgers University); Jingcheng Liu (Nanjing University); Pasin Manurangsi (Google Research); Akbar Rafiey (New York University, RBC Borealis); Phanu Vajanopath (University of Wroclaw); Zongrui Zou (Nanjing University)</li>
+      <br>
+
+      <li>The Structure of In-Place Computation<br>James Cook (None); Surendra Ghentiyala (Cornell University); Ian Mertz (Charles University); Edward Pyne, Nathan S. Sheffield (MIT)</li>
+      <br>
+
+      <li>The Winning Edge: A universal Θ(log n) bound for Minimum-Congestion Cycle Bases<br>Medha Ravi (Caltech)</li>
+      <br>
+
+      <li>Tight Bounds for Distributed Norm Estimation<br>David P. Woodruff, Shenghao Xie (Carnegie Mellon University); Samson Zhou (Texas A&amp;M University)</li>
+      <br>
+
+      <li>Total Variation Distance Estimation through Domain Reduction<br>Arnab Bhattacharyya (University of Warwick); Graham Cormode (University of Oxford); Yucheng Fu (The University of Hong Kong); Kuldeep S. Meel (Georgia Institute of Technology)</li>
+      <br>
+
+      <li>Tree PCPs<br>Tamer Mour (The Italian Institute of Artificial Intelligence (AI4I)); Alon Rosen (Bocconi University); Ron Rothblum (Succinct)</li>
+      <br>
+
+      <li>Ulam Rank Aggregation Is Hard to Approximate for Four Rankings<br>Sk Ruhul Azgor (Pennsylvania State University); Diptarka Chakraborty, Le Van Cuong (NUS Singapore); Debarati Das (Pennsylvania State University); Mursalin Habib (Rutgers University); Tien Long Nguyen (Pennsylvania State University)</li>
+      <br>
+
+      <li>Ultra-Fast Approximate Nearest Neighbor Search with Deterministic Queries<br>Ying Feng, Piotr Indyk (MIT)</li>
+      <br>
+
+      <li>Uncertainty Principles for the Number Theoretic Transform<br>Giulio Malavolta, Alon Rosen (Bocconi University)</li>
+      <br>
+
+      <li>Unconditional Time and Space Complexity Lower Bounds for Intersection Non-Emptiness<br>Michael Wehar (Haverford College)</li>
+      <br>
+
+      <li>Understanding Robust Catalytic Computing<br>Ian Mertz, Michal Koucký, Sasha Sami (Charles University)</li>
+      <br>
+
+      <li>Universal set families for maximization of nonnegative submodular and XOS functions<br>Chandra Chekuri (University of Illinois, Urbana-Champaign, USA); Richard Ueltzen, Jan Vondrák (Stanford University)</li>
+      <br>
+
+      <li>Unshardable Codes<br>Prashanth Amireddy (Harvard University); Yevgeniy Dodis (New York University); Rohan Goyal (Massachusetts Institute of Technology); Ethan Mook (Northeastern University); Madhu Sudan (Harvard University); Daniel Wichs (Northeastern University)</li>
+      <br>
+
+      <li>Verifiable quantum advantage in extremely low depth<br>Alexandru Gheorghiu (IBM)</li>
+      <br>
+
+      <li>Weak Composition Theorems for Randomized Communication<br>Pachara Sawettamalya (Princeton University)</li>
+      <br>
+
+      <li>When Shall We $k$ Meet Again? Tight Algorithms for Diameter and Radius under the Meet Distance<br>Yael Kirkpatrick, Virginia Vassilevska Williams, John Kuszmaul, Merey Temirzinova (Massachusetts Institute of Technology)</li>
+      <br>
+
+      <li>When to Trust a Signal: Optimal Stopping Beyond Secretaries<br>Vasilis Gkatzelis (Drexel University); Renato Paes Leme (Google Research); Xizhi Tan (Stanford University); Sergei Vassilvitskii (Google Research)</li>
+      <br>
+
+      <li>When Too Full Isn't Too Full: Reversing Overflows in Bloom Filters.<br>Michael A. Bender, Daniel DeLayo (Stony Brook University); Gwen Farach-Colton (DTU); Margaret Kuszmaul (Northeastern University)</li>
+      <br>
+</ul>
+
+</div>
+</div>
+</div>
+</div>
+
+</body></html>

@@ -1,0 +1,168 @@
+﻿A Better Lower Bound for Sublinear Metric Steiner Tree,"Sepideh Mahabadi (Microsoft Research, Redmond); Jakub Tarnawski (Microsoft); Ali Vakilian (Rutgers Business School)"
+A Complexity Phase Transition at the EPR Hamiltonian,"Kunal Marwaha, James Sud (University of Chicago)"
+"A Fast Gaussian Mechanism under Continual Observation, with Applications","Sia Susanne Lykke Sejer, Rasmus Pagh (University of Copenhagen)"
+A Matrix Factorization Approach in Turnstile Streaming,"Jan Bulanek, Ravi Kumar (Google); Raghu Meka (University of California Los Angeles); Jelani Nelson (UC Berkeley & Anthropic); Tamás Sarlós (Google Research)"
+A Nearly Optimal Min-Cut Algorithm for Dynamic Streams,"Yang P. Liu, Hoai-An Nguyen (Carnegie Mellon University); Vihan Shah (University of Birmingham); David P. Woodruff (Carnegie Mellon University)"
+A New Quantum Linear System Algorithm Beyond the Condition Number and Its Application to Solving Multivariate Polynomial Systems,Jianqiang Li (UT Dallas)
+A Note on Natural-Proofs for Super-Linear Lower Bounds for Linear Functions,Ran Raz (Princeton University)
+A quantitative container characterization of one-sided testability,Gaia Carenini (University of Cambridge); Cameron Seth (University of Waterloo); Yuichi Yoshida (National Institute of Informatics)
+A quantum oracle separation between QMA(2) and QMA,John Bostanci (Simons Institute and UC Berkeley); Sabee Grewal (IBM Research and Columbia University); Jonas Haferkamp (Ruhr-University Bochum); Andrew Huang (UC Berkeley); Yeongwoo Hwang (Harvard University); Anand Natarajan (MIT); Chinmay Nirkhe (University of Washington)
+A Relativizing MIP for BQP,Scott Aaronson (The University of Texas at Austin); Anand Natarajan (MIT); Avishay Tal (UC Berkeley); Agi Villanyi (MIT)
+A Separation Between Types of Quantum Oracle Separations,Scott Aaronson (The University of Texas at Austin); Adam Bouland (Stanford University); Jordan Docter (Stanford); Barak Nehoran (Columbia University)
+A Simple Algorithm for Best Separable State,"Prashanti Anderson, Sam Hopkins, Amit Rajaraman (MIT)"
+Adversarially Robust PAC Learning with Optimal VC Rates,"Steve Hanneke, Amirreza Shaeiri (Purdue University)"
+Algebraic Complexity Approach to Sign-Rank,"Mika Göös (EPFL); Kaave Hosseini (University of Rochester); Valentin Imbach, Anastasia Sofronova (EPFL)"
+Algebraic Natural Proofs and Hardness of Tensor Problems,Robert Andrews (Simon Fraser University); Youming Qiao (University of Technology Sydney); Anamay Tengse (National Institute of Science Education Research)
+Aligning prover incentives by hiding the problem statement,"Nathan S. Sheffield, Ryan Williams, Zoe Xi (MIT)"
+An Optimal Separation Between Certificate Complexity and Approximate Degree,Kaspars Balodis (University of Latvia)
+Approximate Nearest Neighbor in Ultra-High Dimensional $\ell_\infty$,"Nathan White, Tian Zhang (University of Pennsylvania)"
+Asynchronous Collective Tree Exploration: Communication Meets Randomness,"Romain Cosson (NYU); Laurent Massoulie (INRIA, France)"
+Auctions with Price Predictions,"Siddharth Prasad, Dravyansh Sharma (Toyota Technological Institute at Chicago); Alec Sun, Muthu Sundar (University of Chicago)"
+Beyond IDV: Mechanism Design for Matchdependent Valuations,Gagan Aggarwal (Google Research); Aviad Rubinstein (Stanford University and Google Research)
+Beyond NISQ Assumptions: One-time Memory in the Classically Accessible Random-Oracle Model,"Boyang Chen (Tsinghua University); Tianren Liu, Luojian Wei (Peking University)"
+Beyond Worst-Case Online Algorithms via Input Subsampling,"Siddhartha Banerjee (Cornell); Tianle Jiang, Kamesh Munagala (Duke University)"
+Bin Packing and Covering: Near-Exact Ordinal Maximin-Share Guarantees,"Ankang Sun (School of Computer Science and Technology, Shandong University,); Shiji Xing (The Hong Kong Polytechnic University)"
+Characterizing Complexity Classes by Adaptive Reducibility to the Random Strings,Michael Saks (Rutgers University); Rahul Santhanam (University of Oxford)
+Clustering under Constraints: Efficient Parameterized Approximation Schemes,Sujoy Bhore (Indian Institute of Technology Bombay); Ameet Gadekar (CISPA Helmholtz Center for Information Security); Tanmay Inamdar (Indian Institute of Technology Jodhpur)
+Collective Tree Exploration with Predictions,"Romain Cosson (New York University); Yichen Huang, Michael Mitzenmacher (Harvard University); Ali Vakilian (Rutgers Business School)"
+Communication-Efficient (1+ε)Δ-Edge Coloring and Lovász Local Lemma,Yi-Jun Chang (National University of Singapore); Nima Dolatabadi (University of Copenhagen); Hung Thuan Nguyen (National University of Singapore)
+Complexity of Unambiguous Problems in $\Sigma_2^P$,"Matan Gilboa, Paul W. Goldberg, Elias Koutsoupias (University of Oxford); Noam Nisan (Hebrew University)"
+Complexity Theory for Quantum Promise Problems,"Nai-Hui Chia (Rice University); Kai-Min Chung (Academia Sinica); Tzu-Hsiang Huang (University of Illinois Urbana-Champaign); Chuhan Lu (Rice University); Jhih-Wei Shih (IIS, Academia Sinica)"
+Complexity-Theoretic Consequences of Zero-Knowledge with Inefficient Simulation,"Gal Arnon (Bocconi University); Noam Mazor (New York University); Rafael Pass (Cornell University, Technion); Jad Silbak (MIT)"
+Computationally Indistinguishable Learning,Taiga Hiroka (Hon-Hai Research); Matthew Gray (San Francisco State University); Min-Hsiu Hsieh (Hon-Hai Research)
+Computing Minimum Cut in $\mathcal{O}(\log^{3/2} n)$ Space,Sepehr Assadi (University of Waterloo); Edward Pyne (MIT); Christopher Trevisan (University of Waterloo)
+Conversable Quantum Fire in the Standard Model,Ofer Casper (Ben-Gurion University); Barak Nehoran (Columbia University); Or Sattath (Ben-Gurion University)
+Cores Characterize the One-Pass Streaming Complexity of CSPs,"Joshua Brakensiek (University of California, Berkeley); Aaron Putterman (Harvard University); Amatya Sharma (University of Michigan - Ann Arbor); Santhoshini Velusamy (University of Waterloo)"
+Counting and Concentration on Pseudorandom Hypergraphs,Arpon Basu (Princeton University); Max Hopkins (Institute for Advanced Study)
+Degree Balance as a Fine-Grained Complexity Boundary for Quantum SAT,Atsuya Hasegawa (Nagoya University); Jonas Kamminga (Paderborn University); François Le Gall (Nagoya University); Suguru Tamaki (University of Hyogo)
+Degree Realization with Prescribed Arboricity: General and Bipartite Cases with Applications to Thickness,Meng-Tsung Tsai (Academia Sinica); Tzu-Chiao Yen (National Taiwan University)
+Deterministic Approximation of the Total Variation Distance Between Spin Systems,Zelin Li (University of Science and Technology of China); Minji Yang (The University of Hong Kong)
+Deterministic Depth-4 PIT and Normalization,Zeyu Guo (The Ohio State University); Siki Wang (Caltech)
+Differential Privacy Meets Fixed Parameter Tractability: Algorithms and Lower Bounds,"Pritish Kamath, Ravi Kumar, Pasin Manurangsi (Google Research)"
+Dynamically optimal weight-balanced binary search trees,"John Iacono, Akash Pareek (Université libre de Bruxelles (ULB))"
+Enforcing Demographic Coherence: A Harms Aware Framework for Reasoning about Private Data Release,Mark Bun (Boston University); Marco Carmosino (IBM Research); Palak Jain (Boston University); Gabriel Kaptchuk (University of Maryland); Satchit Sivakumar (Boston University)
+Equivalence of non-local computation tasks beyond Clifford operations,"Philip Verduyn Lunel (Sorbonne Universite, CNRS, LIP6); Alex May (Perimeter Institute for Theoretical Physics); Florian Speelman (QuSoft, University of Amsterdam); Andreas Bluhm, Simon Hoefer (Univ. Grenoble Alpes, CNRS)"
+Exact Algorithms with Fallible Predictions,"Ishan Chakraborty, Pritesh Kumar (Institute of Mathematical Sciences, HBNI, Chennai); Madhumita Kundu (University of Bergen, Norway); Srinivasa Rao Satti (Norwegian University of Science and Technology); Saket Saurabh (Institute of Mathematical Sciences, HBNI, Chennai)"
+Exponential Lower Bounds for the Pfaffian Number of Graphs,"Priyanshu Pant, Ranveer Singh (Indian Institute of Technology Indore)"
+Fast Geometric Spanners via Approximate Nearest Neighbor Search,"Krish Singal, Tian Zhang (University of Pennsylvania); Alex Andoni, Manuel Paez (Columbia University)"
+Feasible Proofs of the Lovász Local Lemma,Om Swostik Mishra (University of Oxford); Dimitrios Tsintsilidas (University of Warwick)
+Fine-Grained P-Completeness,Danil Sibgatullin (No Affiliation); Ryan Williams (MIT)
+Fully Anonymous Perfect Secret-Sharing,Roni Con (Tel Aviv University); Ray Li (Santa Clara University); Noam Mazor (New York University)
+"Generalized Range Avoidance, Collision Avoidance, and Reductions",Jiatu Li (Massachusetts Institute of Technology); Tianqi Yang (Columbia University)
+Geometric Complexity Theory and Graph Isomorphism,"Joshua Grochow (Departments of Computer Science and Mathematics, University of Colorado Boulder, Boulder, CO 80309-0430, United States); Jacob Urisman (University of Colorado Boulder)"
+Global-Error Amortization Equals Zero-Error Expected Query Complexity,"Daiki Suruga (IQC, University of Waterloo)"
+Graph Augmentation for Minimizing Effective Resistances using Column Subset Selection,"Prasanth Yalamanchili, Aditya Bhaskara (University of Utah)"
+Graph-Based Nearest-Neighbor Search without the Spread,Jeff Giliberti (University of Maryland); Sariel Har-Peled (University of Illinois Urbana-Champaign); Jonas Sauer (Karlsruhe Institute of Technology); Ali Vakilian (Rutgers Business School)
+Hardness of Coloring $2$-Colorable $3$-Uniform Hypergraphs with $\log^{\Omega(1)} n$ Colors,"Amey Bhangale, Krishna Priya K M (University of California Riverside); Simon Rubin-Toles (University of California San Diego)"
+Hardness of Online Directed Steiner Network,"Gary Hoppenworth, Yaowei Long (University of Michigan); Sepideh Mahabadi, Jakub Tarnawski (Microsoft Research)"
+Hardness of Regular Expression Matching with Extensions,Taisei Nogami (Waseda University); Yoshiki Nakamura (Chiba University); Tachio Terauchi (Waseda University)
+High-Dimensional Ultra-Log-Concave Distributions,Zongchen Chen (Georgia Institute of Technology); Sihan Wang (Shanghai Jiao Tong University)
+Hit-and-Run Mixes as Fast as the Ball Walk,Ruizhe Zhang (Purdue University)
+Hitting point for sparse noncommutative polynomials,"Foram Lakhani (CSE, Indian Institute of Technology); Partha Mukhopadhyay (Chennai Mathematical Institute)"
+Homomorphic NIZKs and Maliciously-Secure MPC with Optimal Communication Complexity from Standard Assumptions,"Abtin Afshar, Jiaqi Cheng, Rishab Goyal (University of Wisconsin-Madison); Aayush Yadav (Rutgers University); Saikumar Yadugiri (University of Wisconsin-Madison)"
+How to sketch a learning algorithm,Sam Gunn (Massachusetts Institute of Technology)
+How to Verify Probabilistic Consistency of Predictive Models,Yoshua Bengio (Mila); Shafi Goldwasser (MIT); Orr Paradise (EPFL); Oliver Richardson (Mila)
+Improved Circuit Lower Bounds and Quantum-Classical Separations,"Vinayak Kumar (Simons Institute, UC Berkeley); Sabee Grewal (IBM Research, Columbia University)"
+Improved lower bounds for decomposable randomized encoding,Justin Holmgren (unaffiliated); Kewen Wu (Caltech)
+Improved Small Set Expansion in High Dimensional Expanders,David Mass (The Academic College of Tel Aviv-Yaffo); Tali Kaufman (Bar Ilan University)
+Improved Sparsification for Load Balancing,"Gary Hoppenworth (TTIC); Sepideh Mahabadi (Microsoft Research, Redmond); Jakub Tarnawski (Microsoft)"
+Improved Subexponential Upper Bounds for $3$-Restricted Matching Vector Families,Sidhant Saraogi (Georgetown University)
+Instantiating Microcrypt: Obstacles and opportunities via tailored state certification,"Ryan Sweke (AIMS South Africa, Stellenbosch University); Jose Carrasco (FU Berlin); Soumik Ghosh (UC Berkeley, MIT); Dominik Hangleiter (ETH Zurich, Simons Institute, UC Berkeley); Nicky Kai Hong Li (TU Vienna); Jens Eisert (FU Berlin)"
+Interactive Proofs with Noisy Data,"Noga Amit, Shafi Goldwasser (MIT); Guy Rothblum (Apple)"
+Interlinear Probing: Linear Probing with Non-Greedy Insertions,"Andrew Krapivin, William Kuszmaul, Yixuan Wang (CMU)"
+Introvert Clustering for Distributed Graph Algorithms,Yi-Jun Chang (National University of Singapore); Nima Dolatabadi (University of Copenhagen)
+Learning Depth-3 Circuits with Polynomial Savings,"Xi Chen (Columbia University); Animesh Fatehpuria (Anthropic); Shyamal Patel, Rocco A. Servedio (Columbia University)"
+Limitations of Noisy Geometrically Local Quantum Circuits,"Joel Rajakumar, Jon Nelson, Michael Gullans (University of Maryland)"
+Linear Hashing is Not That Awesome,Or Zamir (Tel Aviv University)
+Low-Error Two-Source Extractors via Vinogradov Estimates,"Eshan Chattopadhyay, Mohit Gurumukhani (Cornell University)"
+Lower Bounds for Approximate Sign Rank,"Riju Bindua, Hamed Hatami, Hasti Karimi, Robert Robere (McGill University)"
+"Lower Bounds for Structured OMv, APSP, and Triangle Detection",Nathan Wallheimer (Weizmann Institute of Science); Amir Abboud (Weizmann Institute); Ron Safier (Weizmann Institute of Science); Shyan Akmal (MPI)
+Machine Unlearning as Private Retroactive Algorithms,Haim Kaplan (Tel Aviv University); Refael Kohen (Tel-Aviv University); Yishay Mansour (Tel Aviv University and Google Research); Kobbi Nissim (Georgetown University); Uri Stemmer (Tel Aviv University)
+Matching Size Estimation with Non-Adaptive Pair Queries,"Sanjeev Khanna (New York University); Sagnik Mukhopadhyay, Vihan Shah (University of Birmingham)"
+Navigable Graphs for Low-Dimensional Hyperbolic Spaces,"Chengyuan Deng, Jie Gao, Kuijun Liu, Kevin Lu, Feng Luo, Puheng Weng (Rutgers University); Cheng Xin (Department of Computer Science, Rutgers University)"
+Near-Quadratic Time Multivariate Polynomial Interpolation,Chandra Kanta Mohapatra (Aalto University)
+New Results in Link Arrival Streaming Connectivity Augmentation,Sepideh Mahabadi (Microsoft Research); Vihan Shah (University of Birmingham); Ali Vakilian (Rutgers Business School)
+No Price Tags? No Problem: Query Strategies for Unpriced Information,Shivam Nadimpalli (MIT); Mingda Qiao (University of Massachusetts Amherst); Ronitt Rubinfeld (MIT)
+Non-Clairvoyant Scheduling with Lossy Preemption,"Sven Jäger, Max Klimm (TU Berlin); Maximilian Schicker (Zuse Institute Berlin); Philipp Warode (Humboldt-Universität zu Berlin)"
+Non-Integral $\ell_p$-Shortest Path,Charlie Carlson (University at Buffalo); Yury Makarychev (Toyota Technological Institute at Chicago); Ron Mosenzon (TTIC)
+"Non-Local Search-to-Decision over F2, and More",Prabhanjan Ananth (UCSB)
+Nonlocal Sampling Games and Classical Verification of Quantum Sampling,"Alexander Kulpe (Ruhr University Bochum, LMU Munich); Giulio Malavolta (Bocconi University); Simon Schmidt (Ruhr University Bochum); Michael Walter (LMU Munich)"
+On Space Versus Catalytic Space,"Ryan Williams, Sam Zhang (MIT)"
+On the Complexity of Low-Depth Total Search Problems,"Zihao Liao, Katerina Sotiraki, Manolis Zampetakis (Yale University)"
+On the Gap of Finite Posets,Alireza Haqi (Stanford University)
+On the Space Complexity of Online Convolution,Joel Daniel Andersson (Institute of Science and Technology Austria); Amir Yehudayoff (University of Copenhagen and Technion-IIT)
+On Top-Down and Local Lower Bounds for AC^0 Circuits,Gülce Kardeş (University of Colorado Boulder); Benjamin Rossman (Duke University)
+On Worst-Case Optimal Polynomial Intersection,"Yihang Sun, Mary Wootters (Stanford)"
+Optimal Erasure Codes and Codes on Graphs,"Yeyuan Chen (University of Michigan); Mahdi Cheraghchi, Nikhil Shagrithaya (University of Michigan, Ann Arbor)"
+Optimal mixing of the systematic scan dynamics via approximate tensorization of entropy,"Antonio Blanca, Md Tahmidur Rafid (The Pennsylvania State University)"
+Optimal Signaling Mechanisms for One-round Matching Markets,"Varsha Dani (Rochester Institute of Technology); David Harris (University of Maryland); Thomas P. Hayes (University at Buffalo); Seth Pettie (University of Michigan, Ann Arbor, USA)"
+Optimally Pacing Budget Spending and Learning,"Mark Braverman, Jingyi Liu (Princeton University); Jieming Mao, Jon Schneider (Google Research); Eric Xue (Princeton University)"
+Optimizing Probabilistic Propagation in Graphs by Adding Edges,"Aditya Bhaskara, Alex Crane, Shweta Jain, Md Mumtahin Habib Ullah Mazumder, Blair D. Sullivan, Prasanth Yalamanchili (University of Utah)"
+Parallel Kolmogorov Complexity with Connections to Learning Theory and Cryptography,Mandar Juvekar (Boston University); Marco Carmosino (IBM Research)
+Planar Graph Homomorphisms: A Dichotomy and a Barrier from Quantum Groups,"Jin-Yi Cai, Ashwin Maran, Ben Young (University of Wisconsin-Madison)"
+Polynomial bounds on degeneration order from commutativity properties of tensor slices,Pascal Koiran (Ecole Normale Supérieure de Lyon); Rafael Oliveira (University of Waterloo); Shree Ganesh (Ecole Normale Supérieure de Lyon)
+Polynomial Lower Bounds for Distributed Graph Sketching with Tiny Error: Connectivity and Spanning Tree Construction,"Peter Robinson, Ming Ming Tan (Augusta University)"
+Pricing Pandora’s Boxes: Revenue Maximization in Sequential Information Acquisition,"Shuchi Chawla, Dimitrios Christou (UT Austin); Trung Dang (The University of Texas at Austin); Zhiyi Huang (University of Texas at Austin)"
+Private and Fast Distributed MIS,"Fabien Dufoulon (Univ. Bordeaux, CNRS, Bordeaux INP, LaBRI, UMR 5800); Juan A. Garay (Texas A&M University); Connor Neibert, Gopal Pandurangan (University of Houston); Peter Robinson (Augusta University); Michele Scquizzato (University of Padova); Tzu Shen Wang (Texas A&M University)"
+Private Graph Property Testing,"Hendrik Fichtenberger (Google Zurich); Abigail Gentle (The University of Sydney); Tamalika Mukherjee (Max Planck Institute for Security and Privacy); Sayantan Sen (Centre for Quantum Technologies, National University of Singapore)"
+Promises should be taken seriously: On relativization with promise problems,"David Miloschewsky, Supartha Podder (Stony Brook University); Dorian Rudolph (Paderborn University)"
+Proof of Useful Matrix Multiplication from Quantized Low-Rank Noise,"Yuval Dagan (Tel Aviv University and P.R.L); Or Ordentlich, Ilan Komargodski (Hebrew University and P.R.L); Rafael Pass (Cornell Tech, Technion and P.R.L); Erez Badash, Omri Weinstein, Ohad Klein (Pearl Research Labs); Mark Braverman (Princeton University and P.R.L)"
+Prophet Inequalities and Online Contention Resolution for Matchoids,Calum MacRury (Georgia Institute of Technology); Pranav Nuti (University of Chicago); Jan Vondrak (Stanford University)
+Provable Reductions in TFNP,Noah Fleming (Lund & Columbia); Stefan Grosser (McGill University); Toniann Pitassi (Columbia University); Robert Robere (McGill University)
+Pseudorandom Bits for Low Degree Modular Polynomials,"Chin Ho Lee (North Carolina State University); Shachar Lovett (University of California, San Diego, USA); Tejas Nareddy, Emanuele Viola (Northeastern University)"
+Publicly-Verifiable Certificates for Statistical Algorithms,Michael Ngo (MIT); Michael Kim (Cornell University)
+Quantum advantage from random geometrically-two-local Hamiltonian dynamics,Yihui Quek (EPFL and NUS)
+Quantum Pessiland,Tomoyuki Morimae (University of Kyoto); Boyang Chen (Tsinghua University); Takashi Yamakawa (NTT Social Informatics Laboratories)
+Quantum Query Advantage Requires Space,"Minbo Gao (Institute of Software, Chinese Academy of Sciences); Zhengfeng Ji, Ziyi Xie (Tsinghua University)"
+Quantum Query Lower Bounds for Triangle-Listing and Spanners,"Yu Chen (National University of Singapore); Ananta Mukherjee (Centre for Quantum Technologies, National University of Singapore); Mingyang Yang (National University of Singapore)"
+Random Quantum LDPC Codes Approaching the Gilbert–Varshamov Bound,Tushant Mittal (Stanford University); Shashank Srivastava (Indian Institute of Technology Bombay); Madhur Tulsiani (Toyota Technological Institute at Chicago); Mary Wootters (Stanford)
+Replication Factories under Deterministic External Global Control,"Alberto Avila-Jimenez, Austin Luchsinger, Robert Schweller, Evan Tomai, Tim Wylie (University of Texas Rio Grande Valley)"
+Res(log) Proves Bounded-Depth Frege Lower Bounds,"Ben Davis, Robert Robere (McGill University)"
+Retrieve-Compute PIR and Its Applications,"Benny Applebaum, Shahar Shechter (Tel Aviv University)"
+Rural Readiness: Domain Generalization with Adversarially Chosen Domains,"Cynthia Dwork (Harvard University); Elahe Ghasemi, Lunjia Hu (Northeastern University)"
+Sample Complexity of Multicalibration for Multilevel Properties,"Jiuyao Lu (University of Pennsylvania); Krishnakumar Balasubramanian (University of California, Davis; Amazon); Aleksandr Podkopaev, Shiva Prasad Kasiviswanathan (Amazon)"
+Saving Private Randomness in Differential Privacy,Surendra Ghentiyala (Cornell University); Pritish Kamath (Google Research); Ravi Kumar (Google); Pasin Manurangsi (Google Research)
+Search vs. Decision Characterizes Private- vs. Public-key Encryption,"Halley Goldberg (University of Warwick); Shuichi Hirahara (National Institute of Informatics, Japan)"
+Settling the Support Complexity of Correlated Equilibria,"Ashkan Soleymani, Patrick Jaillet, Gabriele Farina (MIT); Akbar Rafiey (New York University, RBC Borealis)"
+Single-Sample Prophet Inequalities for Knapsack Problems,"Pranav Nuti (University of Chicago); Rebecca Reiffenhäuser, Alice Sayutina (University of Amsterdam)"
+Smooth Random Self-Reductions,Yunqi Li (National University of Singapore); Rahul Santhanam (University of Oxford); Prashant Nalini Vasudevan (National University of Singapore)
+Sparsifying Semidefinite Programs and Applications to Fast List Decoding,Prashanti Anderson (MIT); Sidhanth Mohanty (Northwestern University); Madhur Tulsiani (Toyota Technological Institute at Chicago)
+Stable Multi-Principal Contracts,"Tamar Lachover, Hadas Shachnai (Technion); Inbal Talgam-Cohen (Tel Aviv University)"
+Statistical Learning with an Architectural Prior is Enough: On the Computational Basis of Natural Language,"Daniel Mitropolsky (MIT, Tufts); Christos Papadimitriou (Columbia)"
+Stochastic Matchings and Maximality,Amir Azarmehr (Northeastern University); Avrim Blum (Toyota Technological Institute at Chicago); Ali Vakilian (Rutgers Business School)
+Streaming Hypergraph Coloring via Palette Sparsification,Artur Czumaj (University of Warwick); Pan Peng (USTC); Ruizhe Shi (University of Washington); Christian Sohler (University of Cologne)
+Strongly Refuting Semirandom Linear Systems in Subexponential Time,"Pravesh K. Kothari, Andrew Lin (Princeton University); Peter Manohar (Institute for Advanced Study)"
+Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes,Rohan Goyal (MIT); Venkatesan Guruswami (UC Berkeley)
+Subgraph Freeness Testing with Online Erasures via Fast Maker-Breaker Games,"Steve Choi (University of Waterloo); Ephraim Linder, Sofya Raskhodnikova, Anatoly Zavyalov (Boston University)"
+Submodular Maximization over Bipartite Perfect Matchings and Matroid Intersection Bases,"Neta Singer (EPFL); Chandra Chekuri (University of Illinois, Urbana-Champaign, USA); Lars Rohwedder (University of Southern Denmark); Jan Vondrák (Stanford University); Rico Zenklusen (ETH Zurich)"
+Sumset Structure in Local Computation,"Alexander Golovnev, Mohit Gurumukhani (Cornell University)"
+Testable Testing: Distribution-Robust Property Testing,"Xi Chen, Renato Ferreira Pinto Jr. (Columbia University); Nathan Harms (University of British Columbia); Rocco A. Servedio (Columbia University)"
+Testing Induced-Subgraph Freeness in Outerplanar Graphs under the Random-Neighbor Oracle,"Pan Peng, Kefan Yu (School of Computer Science and Technology, University of Science and Technology of China)"
+Testing Permutation Pattern Properties on Arrays with Few Distinct Values,"Harish Chandramouleeswaran (Chennai Mathematical Institute, India); Gopinath Mishra (The Institute of Mathematical Sciences, India); Nithin Varma (University of Cologne, Germany)"
+The BRRY Analysis of the INW Pseudorandom Generator is Optimal,"William Hoza, Yakov Shalunov (University of Chicago)"
+The Collapse of Unentangled Stoquastic Merlin-Arthur Proof Systems,"William Gay, Fernando Jeronimo (University of Illinois Urbana-Champaign)"
+The complexity of classical shadows and minimal quantum cryptography,Boyang Chen (Tsinghua University); Bruno Cavalar (University of Oxford); Matthew Gray (San Fransisco State University); Zhengfeng Ji (Tsinghua University)
+The Cube-Root Phenomenon in Online Carpooling,"Nikhil Bansal, Milind Prabhu (University of Michigan); Sahil Singla, Siddharth Sundaram (Georgia Institute of Technology)"
+The Exceptional Hardness of String Distance Oracles,Amir Abboud (Weizmann Institute of Science); Nick Fischer (Max Planck Institute for Informatics)
+The Insertion List-Decoding Capacity and an Improved Bound on the Deletion List-Decoding Capacity,"Roni Con (Tel Aviv Univesity); Dean Doron (Ben Gurion University); João Ribeiro (Instituto de Telecomunicações and Instituto Superior Técnico, Universidade de Lisboa)"
+The Komlos conjecture for complex discrepancy,"Nestor Guillen (Courant Institute, New York University); Vladimir A.Kobzar (The Ohio State University)"
+The Non-Cancelling Complexity of Iterated Matrix Multiplication,Benjamin Rossman (Duke University)
+The Power of Flexible Budgets in Adwords,"Suho Kang, Rajan Udwani (UC Berkeley)"
+The Price of Privacy For Approximating Max-CSP,"Prathamesh Dharangutte (Rutgers University); Jingcheng Liu (Nanjing University); Pasin Manurangsi (Google Research); Akbar Rafiey (New York University, RBC Borealis); Phanu Vajanopath (University of Wroclaw); Zongrui Zou (Nanjing University)"
+The Structure of In-Place Computation,"James Cook (None); Surendra Ghentiyala (Cornell University); Ian Mertz (Charles University); Edward Pyne, Nathan S. Sheffield (MIT)"
+The Winning Edge: A universal Θ(log n) bound for Minimum-Congestion Cycle Bases,Medha Ravi (Caltech)
+Tight Bounds for Distributed Norm Estimation,"David P. Woodruff, Shenghao Xie (Carnegie Mellon University); Samson Zhou (Texas A&M University)"
+Total Variation Distance Estimation through Domain Reduction,Arnab Bhattacharyya (University of Warwick); Graham Cormode (University of Oxford); Yucheng Fu (The University of Hong Kong); Kuldeep S. Meel (Georgia Institute of Technology)
+Tree PCPs,Tamer Mour (The Italian Institute of Artificial Intelligence (AI4I)); Alon Rosen (Bocconi University); Ron Rothblum (Succinct)
+Ulam Rank Aggregation Is Hard to Approximate for Four Rankings,"Sk Ruhul Azgor (Pennsylvania State University); Diptarka Chakraborty, Le Van Cuong (NUS Singapore); Debarati Das (Pennsylvania State University); Mursalin Habib (Rutgers University); Tien Long Nguyen (Pennsylvania State University)"
+Ultra-Fast Approximate Nearest Neighbor Search with Deterministic Queries,"Ying Feng, Piotr Indyk (MIT)"
+Uncertainty Principles for the Number Theoretic Transform,"Giulio Malavolta, Alon Rosen (Bocconi University)"
+Unconditional Time and Space Complexity Lower Bounds for Intersection Non-Emptiness,Michael Wehar (Haverford College)
+Understanding Robust Catalytic Computing,"Ian Mertz, Michal Koucký, Sasha Sami (Charles University)"
+Universal set families for maximization of nonnegative submodular and XOS functions,"Chandra Chekuri (University of Illinois, Urbana-Champaign, USA); Richard Ueltzen, Jan Vondrák (Stanford University)"
+Unshardable Codes,Prashanth Amireddy (Harvard University); Yevgeniy Dodis (New York University); Rohan Goyal (Massachusetts Institute of Technology); Ethan Mook (Northeastern University); Madhu Sudan (Harvard University); Daniel Wichs (Northeastern University)
+Verifiable quantum advantage in extremely low depth,Alexandru Gheorghiu (IBM)
+Weak Composition Theorems for Randomized Communication,Pachara Sawettamalya (Princeton University)
+When Shall We $k$ Meet Again? Tight Algorithms for Diameter and Radius under the Meet Distance,"Yael Kirkpatrick, Virginia Vassilevska Williams, John Kuszmaul, Merey Temirzinova (Massachusetts Institute of Technology)"
+When to Trust a Signal: Optimal Stopping Beyond Secretaries,Vasilis Gkatzelis (Drexel University); Renato Paes Leme (Google Research); Xizhi Tan (Stanford University); Sergei Vassilvitskii (Google Research)
+When Too Full Isn't Too Full: Reversing Overflows in Bloom Filters.,"Michael A. Bender, Daniel DeLayo (Stony Brook University); Gwen Farach-Colton (DTU); Margaret Kuszmaul (Northeastern University)"
